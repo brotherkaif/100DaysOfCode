@@ -112,3 +112,6 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to work**
 1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+**Link(s) to resources**
+1. [Working while waiting for pending PR](https://stackoverflow.com/questions/35790561/working-while-waiting-for-pending-pr)
