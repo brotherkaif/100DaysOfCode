@@ -115,3 +115,15 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to resources**
 1. [Working while waiting for pending PR](https://stackoverflow.com/questions/35790561/working-while-waiting-for-pending-pr)
+
+### Day 12: Tuesday, Feb 12, 2019
+
+**Today's Progress**: Minor footer changes (and setup experimentation)
+
+**Thoughts**: Just a small one today, worked on the footer. The biggest thing today was actually to do with trying out a new setup! I decided to try out a cloud based IDE and moved my work over to coder.com. So far, I'm really impressed! Essentially, it's Visual Studio Code (like, the _actual_ VSCode) in the browser with a virtual Linux server behind it. What makes this even more impressive is that it's browser based and so totally works in a chromebook. I think I may stick with this one for a while longer.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+**Link(s) to resources**
+1. [Coder (the cloud IDE I've been playing around with)](https://coder.com)
