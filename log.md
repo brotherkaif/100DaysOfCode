@@ -127,3 +127,12 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to resources**
 1. [Coder (the cloud IDE I've been playing around with)](https://coder.com)
+
+### Day 13: Wednesday, Feb 13, 2019
+
+**Today's Progress**: Updating links and optimising images.
+
+**Thoughts**: Ran into one of the first big limitations of this cloud IDE; No easy way to upload files to your virtual machine! The horrible workaround that I came up with was to host the images on a free service somewhere and then use `wget` to pull them onto the virtual machine again. Not the smoothest solution but it all worked out okay in the end. Hopefully they'll fix it soon and provide an easier means of getting files on there. I mean, it is an alpha so I'll cut them a bit of slack at least.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
