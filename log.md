@@ -136,3 +136,12 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to work**
 1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+### Day 14: Thursday, Feb 14, 2019
+
+**Today's Progress**: Practiced API calls in JavaScript
+
+**Thoughts**: Spent the day working at Le Wagon code bootcamp on teaching assistant duties. The topic today was `fetch` in JavaScript (and API interaction in general). Quite a few interesting problems to resolve but really good practice overall!
+
+**Link(s) to work**
+1. [Le Wagon](https://www.lewagon.com/)
