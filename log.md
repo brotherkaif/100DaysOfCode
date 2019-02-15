@@ -145,3 +145,12 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to work**
 1. [Le Wagon](https://www.lewagon.com/)
+
+### Day 15: Friday, Feb 15, 2019
+
+**Today's Progress**: Started work on supporters section
+
+**Thoughts**: Back on the Coder Brixton redesign today. Added in a section to link back to our supporters. Also reached out to one of them to get hold of some nice high res versions of their logo.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
