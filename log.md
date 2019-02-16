@@ -154,3 +154,12 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to work**
 1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+### Day 16: Saturday, Feb 14, 2019
+
+**Today's Progress**: More work on the supporters section
+
+**Thoughts**: Added in some small animation to the supporters section.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
