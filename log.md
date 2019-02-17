@@ -155,11 +155,20 @@ I also realise that I actually really like front end. I originally found it quit
 **Link(s) to work**
 1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
 
-### Day 16: Saturday, Feb 14, 2019
+### Day 16: Saturday, Feb 16, 2019
 
 **Today's Progress**: More work on the supporters section
 
 **Thoughts**: Added in some small animation to the supporters section.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+### Day 17: Sunday, Feb 17, 2019
+
+**Today's Progress**: Started work on a navbar
+
+**Thoughts**: Added in a navbar by utilising code from a previous project. However, the navbar does rely quite heavily on the Bootstrap library which I have been wanting to remove from the for a couple of weeks. I may redo this next week with a non-bootstrap version.
 
 **Link(s) to work**
 1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
