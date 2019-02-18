@@ -172,3 +172,16 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to work**
 1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+### Day 18: Monday, Feb 18, 2019
+
+**Today's Progress**: Re-coded the navbar
+
+**Thoughts**: Decided to re-code the navbar instead of using the one from an old project. The new navbar is going to be vanilla css and not rely on Bootstrap. Found a pretty good thread on Reddit about best practice for this. Less is definitely more when it comes to this kind of stuff. Not really styled the navbar yet, I just want to get the responsive behaviour sorted tomorrow.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+**Link(s) to resources**
+1. [Best Vanilla Navbar Practices (Reddit thread)](https://www.reddit.com/r/HTML/comments/8m11b3/best_vanilla_navbar_practices/)
+2. [Vanilla Header (Codepen)](https://codepen.io/MathiasaurusRex/pen/NMZLxg)
