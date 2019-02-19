@@ -185,3 +185,12 @@ I also realise that I actually really like front end. I originally found it quit
 **Link(s) to resources**
 1. [Best Vanilla Navbar Practices (Reddit thread)](https://www.reddit.com/r/HTML/comments/8m11b3/best_vanilla_navbar_practices/)
 2. [Vanilla Header (Codepen)](https://codepen.io/MathiasaurusRex/pen/NMZLxg)
+
+### Day 19: Tuesday, Feb 19, 2019
+
+**Today's Progress**: Git rebasing and link styling
+
+**Thoughts**: Had to do another `git rebase` as my previous branch got merged in. I'm feeling a bit better about rebasing now. Although it does seem like it can get very messy very quickly. For this project things aren't too complicated as it's just me working on it. However, I can see how it can get very messy very quickly if working in a team with poor communication. Also managed to do a bit more styling on the navbar links. Will work on responsive behaviour tomorrow.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
