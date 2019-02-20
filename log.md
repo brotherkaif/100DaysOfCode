@@ -194,3 +194,15 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to work**
 1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+### Day 20: Wednesday, Feb 20, 2019
+
+**Today's Progress**: Tried (and failed) to work on navbar
+
+**Thoughts**: I made an attempt to put together a responsive navbar that didn't require Javascript based on a guide that I found. Unfortunately, it didn't work out too well and I think I'm going to have to bite the bullet and at least accept a bit of Javascript. To be honest, I'm not quite sure why I'm avoiding it, I actually _do_ want to learn Javascript. I might have to hit some more tutorials.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+**Link(s) to resources**
+1. [How To Create A Responsive Navigation Menu Using Only CSS](https://medialoot.com/blog/how-to-create-a-responsive-navigation-menu-using-only-css/)
