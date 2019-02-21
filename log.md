@@ -206,3 +206,16 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to resources**
 1. [How To Create A Responsive Navigation Menu Using Only CSS](https://medialoot.com/blog/how-to-create-a-responsive-navigation-menu-using-only-css/)
+
+### Day 21: Thursday, Feb 21, 2019
+
+**Today's Progress**: Got the navbar behaviour working
+
+**Thoughts**: Found a guide to get the navbar working properly. The styling is still all over the place and will need a bit of work, but the basic responsive behaviour is there.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+**Link(s) to resources**
+1. [Create an Absolute Basic Mobile CSS Responsive Navigation Menu](https://blog.teamtreehouse.com/create-an-absolute-basic-mobile-css-responsive-navigation-menu)
+
