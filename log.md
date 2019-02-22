@@ -219,3 +219,11 @@ I also realise that I actually really like front end. I originally found it quit
 **Link(s) to resources**
 1. [Create an Absolute Basic Mobile CSS Responsive Navigation Menu](https://blog.teamtreehouse.com/create-an-absolute-basic-mobile-css-responsive-navigation-menu)
 
+### Day 22: Friday, Feb 22, 2019
+
+**Today's Progress**: Added in another supporter
+
+**Thoughts**: Couldn't do a huge amount due to time. But I did manage to get another supporter added to the list. Also made some tweaks to the layout to center align the elements vertically.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
