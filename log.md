@@ -227,3 +227,18 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to work**
 1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+### Day 23: Saturday, Feb 23, 2019
+
+**Today's Progress**: Developed navbar
+
+**Thoughts**: Sorted out the navbar. It's unstyled, but it's behaving responsively now. Will tackle the styling part later, but for now, it's working.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+### Day 24: Sunday, Feb 24, 2019
+
+**Today's Progress**: Practising APIs
+
+**Thoughts**: Started a new job this week (yay me). The work is very API focused so I decided to start learning Postman as I think it's going to be a pretty useful tool for me moving forward.
