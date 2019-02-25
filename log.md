@@ -242,3 +242,9 @@ I also realise that I actually really like front end. I originally found it quit
 **Today's Progress**: Practising APIs
 
 **Thoughts**: Started a new job this week (yay me). The work is very API focused so I decided to start learning Postman as I think it's going to be a pretty useful tool for me moving forward.
+
+### Day 25: Monday, Feb 25, 2019
+
+**Today's Progress**: More practising APIs
+
+**Thoughts**: Covering for someone else at work this week so have to stick with the API work for the next few days. Not a bad thing though!
